@@ -1,7 +1,7 @@
 @font-face {
     /* 声明字体 */
     font-family: 'SourceHanSansSC-regular';
-    src: url('../font/SourceHanSansSC-Regular.otf');
+    src: url('../font/sourcehansanssc-regular.ttf');
 }
 
 p {
