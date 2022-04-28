@@ -1,7 +1,7 @@
 @font-face {
     /* 声明字体 */
     font-family: 'SourceHanSansSC-regular';
-    src: url('../font/SourceHanSansSC-Regular.otf');
+    src: url('../font/sourcehansanssc-regular.ttf');
 }
 
 p {
@@ -26,7 +26,7 @@ body {
     height: 100%;
     width: 100%;
     /* 设置背景图片 */
-    background: url(/static/back.jpg) no-repeat;
+    background: url('../static/back.jpg') no-repeat;
     /* 设置背景图片尺寸使其自适应*/
     background-size: cover;
     overflow-x: hidden;
